@@ -1,5 +1,5 @@
 ## STS-KD
-This released repo of our work on remote sensing change detection  
+The released repo of our work on remote sensing change detection  
 _"Siamese Teacher-Strict Knowledge Distillation for Change Detection"_
 
 Note that, our code is based on https://github.com/likyoo/change_detection.pytorch
